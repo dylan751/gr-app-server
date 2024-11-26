@@ -48,7 +48,7 @@
     "csvtojson": "^2.0.10",
     "date-fns": "^3.3.1",
     "dotenv": "^16.3.1",
-    "mysql2": "^3.6.2",
+    "mysql2": "^3.9.4",
     "passport": "^0.6.0",
     "passport-jwt": "^4.0.1",
     "passport-local": "^1.0.0",
